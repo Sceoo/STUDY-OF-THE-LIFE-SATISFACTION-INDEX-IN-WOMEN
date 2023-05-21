@@ -2,17 +2,17 @@
 Study of the Life Satisfaction Index for Women
 
 ## Genesis
-This is a final project of the course [Code First Girls Degree] (https://codefirstgirls.com/courses/cfgdegree/) sponsored by [Credit Suisse](https://www.credit-suisse.com/) created by the following people listed in alphabetical order:
+This is a final project of the course **[Code First Girls Degree]** (https://codefirstgirls.com/courses/cfgdegree/) sponsored by **[Credit Suisse]** (https://www.credit-suisse.com/) created by the following people listed in alphabetical order:
 |Name     |  GitHub Handle   | 
 |---------|-----------------|
-|[Elena Garcia Gomez] - technical lead | (https://github.com/elepg261])
-|[Michalina Bienkiewicz] | (https://github.com/MichalinaBienkiewicz])
-|[Anna Dąbrowska] | (https://github.com/?])
-|[Milena Haładaj] | (https://github.com/Sceoo])
-|[Paulina Nanikowska] | (https://github.com/PaulinaNan])
-|[Jasmine Ross] | (https://github.com/jasmineemross])
-|[Ana Tavares] | (https://github.com/?])
-|[Sayo] | (https://github.com/sayoiscool])
+|Elena Garcia Gomez - technical lead | (https://github.com/elepg261)
+|Ana Tavares | (https://github.com/?])
+|Anna Dąbrowska | (https://github.com/?])
+|Jasmine Ross | (https://github.com/jasmineemross])
+|Milena Haładaj | (https://github.com/Sceoo])
+|Michalina Bienkiewicz | (https://github.com/MichalinaBienkiewicz])
+|Paulina Nanikowska | (https://github.com/PaulinaNan])
+|Sayo - group supervisor | (https://github.com/sayoiscool])
 
 #### -- Project Status: [in progress]
 
