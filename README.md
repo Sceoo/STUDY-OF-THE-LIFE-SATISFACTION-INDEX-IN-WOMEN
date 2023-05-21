@@ -8,7 +8,7 @@ This is a final project of the course **[Code First Girls Degree](https://codefi
 |Name     |  GitHub Account   | 
 |---------|-----------------|
 |Ana Tavares | (https://github.com/?)
-|Anna Dąbrowska | (https://github.com/?)
+|Anna Dąbrowska | (https://github.com/AnnaDabrowska)
 |Elena Garcia Gomez | (https://github.com/elepg261)
 |Jasmine Ross | (https://github.com/jasmineemross)
 |Milena Haładaj | (https://github.com/Sceoo)
