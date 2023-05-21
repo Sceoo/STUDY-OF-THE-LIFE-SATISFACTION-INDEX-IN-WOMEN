@@ -1,4 +1,4 @@
-## Project Name
+### Project Name
 Study of the Life Satisfaction Index for Women
 
 #### -- Project Status: [in progress]
@@ -16,7 +16,7 @@ This is a final project of the course **[Code First Girls Degree](https://codefi
 |Paulina Nanikowska | (https://github.com/PaulinaNan)
 |Sayo - group supervisor | (https://github.com/sayoiscool)
 
-## Project Intro/Objective
+### Project Intro/Objective
 The purpose of this project is to analyze women's life satisfaction to raise awareness of the problem of gender inequality by performing descriptive analysis of the below-listed sources using Python:
 - the Better Life Index data set provided by OECD (Organization for Economic Cooperation and Development), analyzed factors: employment rate, long-term unemployment rate, life expectancy, self-reported health, employees working very long hours, time devoted to leisure and personal care, educational attainment, students' skills, expected years in education, water quality, homicide rates, feeling safe walking alone at night, social network support, life satisfaction. The data provided in the source and analyzed comes from 2019 and 2020, with a few exceptions differing by country/factor that date back to 2006-2018. 
 - the GDP data set provided by OECD. The data analyzed comes from the years 2020-2022.
