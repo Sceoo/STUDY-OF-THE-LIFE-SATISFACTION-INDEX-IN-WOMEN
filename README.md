@@ -1,7 +1,7 @@
 # Project Name
-Study of the life satisfaction index in women
+Study of the Life Satisfaction Index for Women
 
-# Genesis
+## Genesis
 This is a final project of the course [Code First Girls Degree] (https://codefirstgirls.com/courses/cfgdegree/) sponsored by [Credit Suisse](https://www.credit-suisse.com/) created by the following people:
 - Ana Tavares @
 - Anna Dąbrowska @
@@ -15,26 +15,20 @@ and supervised by: @sayoiscool.
 #### -- Project Status: [in progress]
 
 ## Project Intro/Objective
-The purpose of this project is to raise awareness on the problem of gender inequality by performing descriptive analysis of the below listed sources using Python:
-- the Better Life Index from years 2019 and 2020, with some exceptions that date back to .
-as well as to study the Life Satisfaction Index of women and raise awareness of gender inequality. 
+The purpose of this project is to study women's life satisfaction to raise awareness on the problem of gender inequality by performing descriptive analysis of the below-listed sources using Python:
+- the Better Life Index data set provided by OECD (Organization for Economic Cooperation and Development), analyzed factors: employment rate, long-term unemployment rate, life expectancy, self-reported health, employees working very long hours, time devoted to leisure and personal care, educational attainment, students' skills, expected years in education, water quality, homicide rates, feeling safe walking alone at night, social network support, life satisfaction. The data provided in the source mostly comes from years 2019 and 2020, with few exceptions differing by country/factor that date back to years 2006-2018. 
+- the GDP data set provided by OECD. Data analysed comes from years 2020-2022.
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Data loading, exploration, cleaning, summary - libraries used: pandas, pandassdmx, requests.
+* Mathematical operations - library used: numpy
+* Predictive modeling and evaluation of performance of predictive models - library used: scikit-learn
+* Data visualization, correlation analysis - libraries used: matplotlib, seaborn
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Jupyter
+* HTML?
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
