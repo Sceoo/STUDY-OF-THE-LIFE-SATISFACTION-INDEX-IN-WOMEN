@@ -4,7 +4,7 @@ Study of the Life Satisfaction Index for Women
 #### -- Project Status: [in progress]
 
 ## Genesis
-This is a final project of the course **[Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)** sponsored by **[Credit Suisse](https://www.credit-suisse.com/)** created by the following people listed in alphabetical order:
+This is a final project of the course **[Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)** created by the following people, whose participation in the course was sponsored by **[Credit Suisse](https://www.credit-suisse.com/)**, listed in alphabetical order:
 |Name     |  GitHub Handle   | 
 |---------|-----------------|
 |Elena Garcia Gomez - technical lead | (https://github.com/elepg261)
