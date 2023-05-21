@@ -3,7 +3,7 @@ Study of the Life Satisfaction Index for Women
 
 #### -- Project Status: [in progress]
 
-## Genesis
+### Genesis
 This is a final project of the course **[Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)** created by the following people, whose participation in the course was sponsored by **[Credit Suisse](https://www.credit-suisse.com/)**, listed in alphabetical order:
 |Name     |  GitHub Handle   | 
 |---------|-----------------|
@@ -38,4 +38,3 @@ The purpose of this project is to analyze women's life satisfaction to raise awa
 2. Raw Data is being kept [here](https://github.com/Sceoo/FINAL_PROJECT/tree/main/data) within this repo.
 3. GDP data set is accessed using API. 
 4. Data analysis script is [here to be updated](?link)
-
