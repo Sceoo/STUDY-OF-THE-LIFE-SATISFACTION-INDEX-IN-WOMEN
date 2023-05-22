@@ -7,7 +7,7 @@ Study of the Life Satisfaction Index for Women
 This is a final project of the course **[Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)** created by the following people, whose participation in the course was sponsored by **[Credit Suisse](https://www.credit-suisse.com/)**, listed in alphabetical order:
 |Name     |  GitHub Account   | 
 |---------|-----------------|
-|Ana Tavares | (https://github.com/?)
+|Ana Tavares | (https://github.com/anatava)
 |Anna Dąbrowska | (https://github.com/AnnaDabrowska)
 |Elena Garcia Gomez | (https://github.com/elepg261)
 |Jasmine Ross | (https://github.com/jasmineemross)
