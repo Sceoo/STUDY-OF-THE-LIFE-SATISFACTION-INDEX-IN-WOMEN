@@ -14,7 +14,7 @@ This is a final project of the course **[Code First Girls Degree](https://codefi
 |Milena Haładaj | (https://github.com/Sceoo)
 |Michalina Bienkiewicz | (https://github.com/MichalinaBienkiewicz)
 |Paulina Nanikowska | (https://github.com/PaulinaNan)
-|Sayo - group supervisor | (https://github.com/sayoiscool)
+|Sayo Agunbiade - group supervisor | (https://github.com/sayoiscool)
 
 ### Project Intro
 The purpose of this project is to analyze women's life satisfaction to raise awareness of the problem of gender inequality by performing descriptive analysis of the below-listed sources using Python:
