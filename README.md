@@ -34,7 +34,8 @@ The purpose of this project is to analyze women's life satisfaction to raise awa
 * HTML? (if we use it to visualize the tables)
 
 ### Getting Started
-1. For the project analysis we used Jupyter Notebook. To open the project file please click [here](?link) or open the file "project_file tbc" in this repository.
-2. Optional - clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-3. Raw Data is being kept [here](https://github.com/Sceoo/FINAL_PROJECT/tree/main/data) within this repo.
-4. GDP data set is accessed using API. 
+1. For the project analysis we used Jupyter Notebook. To open the project file please click [here](?link) or open the file "project_file tbc" in this repository. 
+2. Installing pandasdmx is necessary each time the project file is being opened.
+3. Optional - clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+4. Raw Data is being kept [here](https://github.com/Sceoo/FINAL_PROJECT/tree/main/data) within this repo.
+5. GDP data set is accessed using API. 
