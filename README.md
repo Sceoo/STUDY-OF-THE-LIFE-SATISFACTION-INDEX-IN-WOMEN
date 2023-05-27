@@ -1,5 +1,5 @@
 ### Project Name
-Study of the Life Satisfaction Index for Women
+Study of the Life Satisfaction Index in Women
 
 #### -- Project Status: [in progress]
 
