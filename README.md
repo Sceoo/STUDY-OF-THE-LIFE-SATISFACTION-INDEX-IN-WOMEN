@@ -1,7 +1,7 @@
 ### Project Name
 Study of the Life Satisfaction Index in Women
 
-#### -- Project Status: [in progress]
+#### -- Project Status: [in revision]
 
 ### Genesis
 This is a final project of the course **[Code First Girls Degree](https://codefirstgirls.com/courses/cfgdegree/)** created by the following people, whose participation in the course was sponsored by **[Credit Suisse](https://www.credit-suisse.com/)**, listed in alphabetical order:
@@ -25,17 +25,16 @@ The purpose of this project is to analyze women's life satisfaction to raise awa
 * Data loading, exploration, cleaning, summary - libraries: pandas, pandassdmx, requests.
 * Mathematical operations - library: numpy
 * Predictive modeling and evaluation of the performance of predictive models - library: sci-kit-learn
-* Data visualization, correlation analysis - libraries: matplotlib, seaborn
+* Data visualization, correlation analysis - libraries: matplotlib, seaborn, plotly.
 
 ### Technologies
 * Python and its libraries
 * Jupyter
 * GitHub
-* HTML? (if we use it to visualize the tables)
 
 ### Getting Started
-1. For the project analysis we used Jupyter Notebook. To open the project file please click [here](?link) or open the file "project_file tbc" in this repository. 
-2. It may be required to pip install 'pandasdmx' library the first time running this notebook, the command is included within the notebook. In case you are it from your terminal use the code 'pip install pandasdmx'.
-3. Optional - clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-4. Raw Data is being kept [here](https://github.com/Sceoo/FINAL_PROJECT/tree/main/data) within this repo.
-5. GDP data set is accessed using API, the code to access the API is included within the notebook. In case you get the ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), which might happen when the server of OEDC terminates the connection unexpectedly. In this case please use.....
+1. For the project analysis we used Jupyter Notebook. To open the project file please click [here](https://github.com/Sceoo/STUDY-OF-THE-LIFE-SATISFACTION-INDEX-IN-WOMEN/blob/cfg-final-project-submission/study_life_satisfaction_women_notebook.ipynb) or open the file "study_life_satisfaction_women_notebook.ipynb" in this repository. 
+2. It may be required to pip install 'pandasdmx' library the first time running this notebook, the command is included within the notebook. In case you want to install it from your terminal, please use the code 'pip install pandasdmx'.
+3. Optionally, you can clone this repo, for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/).
+4. Raw Data is being kept [here](https://github.com/Sceoo/STUDY-OF-THE-LIFE-SATISFACTION-INDEX-IN-WOMEN/tree/cfg-final-project-submission/data) within this repo. After 06.06.2023, if the repository is still private, in order to access the raw data one needs to generate one's own token in GitHub, use the new token in the code above by replacing value for 'autorization' in the headers dictionary with the new token. The notification about it is located within the file on the specific line of code.
+5. GDP data set is accessed using API, the code to access the API is included within the notebook. If there is an error or the website does not respond, the particular line of code reads the data from the CSV file hosted on GitHub using the exception handling.
